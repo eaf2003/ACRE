@@ -1,0 +1,11 @@
+C:\LOCAL\ACREPRJ\ACRE\BIZL\bin\Debug\BIZL.dll
+C:\LOCAL\ACREPRJ\ACRE\BIZL\bin\Debug\BIZL.pdb
+C:\LOCAL\ACREPRJ\ACRE\BIZL\bin\Debug\BIZL.xml
+C:\LOCAL\ACREPRJ\ACRE\BIZL\bin\Debug\Datos.dll
+C:\LOCAL\ACREPRJ\ACRE\BIZL\bin\Debug\Datos.pdb
+C:\LOCAL\ACREPRJ\ACRE\BIZL\obj\Debug\ResolveAssemblyReference.cache
+C:\LOCAL\ACREPRJ\ACRE\BIZL\obj\Debug\ACRE.BIZL.Resources.resources
+C:\LOCAL\ACREPRJ\ACRE\BIZL\obj\Debug\BIZL.vbproj.GenerateResource.Cache
+C:\LOCAL\ACREPRJ\ACRE\BIZL\obj\Debug\BIZL.dll
+C:\LOCAL\ACREPRJ\ACRE\BIZL\obj\Debug\BIZL.xml
+C:\LOCAL\ACREPRJ\ACRE\BIZL\obj\Debug\BIZL.pdb
