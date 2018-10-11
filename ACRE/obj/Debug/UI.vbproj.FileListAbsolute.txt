@@ -1,0 +1,15 @@
+C:\LOCAL\ACREPRJ\ACRE\ACRE\bin\Debug\ACRE.exe
+C:\LOCAL\ACREPRJ\ACRE\ACRE\bin\Debug\ACRE.pdb
+C:\LOCAL\ACREPRJ\ACRE\ACRE\bin\Debug\ACRE.xml
+C:\LOCAL\ACREPRJ\ACRE\ACRE\bin\Debug\Datos.dll
+C:\LOCAL\ACREPRJ\ACRE\ACRE\bin\Debug\Datos.pdb
+C:\LOCAL\ACREPRJ\ACRE\ACRE\bin\Debug\Datos.xml
+C:\LOCAL\ACREPRJ\ACRE\ACRE\obj\Debug\ResolveAssemblyReference.cache
+C:\LOCAL\ACREPRJ\ACRE\ACRE\obj\Debug\ACRE.Form2.resources
+C:\LOCAL\ACREPRJ\ACRE\ACRE\obj\Debug\ACRE.Form1.resources
+C:\LOCAL\ACREPRJ\ACRE\ACRE\obj\Debug\ACRE.frmBuscaCliente.resources
+C:\LOCAL\ACREPRJ\ACRE\ACRE\obj\Debug\ACRE.Resources.resources
+C:\LOCAL\ACREPRJ\ACRE\ACRE\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\LOCAL\ACREPRJ\ACRE\ACRE\obj\Debug\ACRE.exe
+C:\LOCAL\ACREPRJ\ACRE\ACRE\obj\Debug\ACRE.xml
+C:\LOCAL\ACREPRJ\ACRE\ACRE\obj\Debug\ACRE.pdb

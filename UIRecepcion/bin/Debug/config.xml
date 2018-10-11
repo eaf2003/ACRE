@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<applicationSettings>
+	<server>NOTE44\SQLEXPRESS</server>
+	<base>ITORG2014</base>
+	<ssi>true</ssi>
+	<user>sa</user>
+	<password>sa</password>
+	<ExcelPath>C:\LOCAL\QUAD\MDT\Planilla 28-10-2014 SEG  CAJA - NUEVAEAF.xls</ExcelPath>
+</applicationSettings>

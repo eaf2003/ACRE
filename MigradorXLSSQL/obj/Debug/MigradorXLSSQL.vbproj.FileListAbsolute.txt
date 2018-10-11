@@ -1,0 +1,16 @@
+C:\LOCAL\ACREPRJ\ACRE\MigradorXLSSQL\bin\Debug\ACREMigrador.exe
+C:\LOCAL\ACREPRJ\ACRE\MigradorXLSSQL\bin\Debug\ACREMigrador.pdb
+C:\LOCAL\ACREPRJ\ACRE\MigradorXLSSQL\bin\Debug\BIZL.dll
+C:\LOCAL\ACREPRJ\ACRE\MigradorXLSSQL\bin\Debug\Datos.dll
+C:\LOCAL\ACREPRJ\ACRE\MigradorXLSSQL\bin\Debug\Datos.pdb
+C:\LOCAL\ACREPRJ\ACRE\MigradorXLSSQL\bin\Debug\BIZL.pdb
+C:\LOCAL\ACREPRJ\ACRE\MigradorXLSSQL\bin\Debug\BIZL.xml
+C:\LOCAL\ACREPRJ\ACRE\MigradorXLSSQL\obj\Debug\ResolveAssemblyReference.cache
+C:\LOCAL\ACREPRJ\ACRE\MigradorXLSSQL\obj\Debug\ACRE.CenaPasada.resources
+C:\LOCAL\ACREPRJ\ACRE\MigradorXLSSQL\obj\Debug\ACRE.TipoDeCambioMod.resources
+C:\LOCAL\ACREPRJ\ACRE\MigradorXLSSQL\obj\Debug\ACRE.Form1.resources
+C:\LOCAL\ACREPRJ\ACRE\MigradorXLSSQL\obj\Debug\ACRE.Migrador.resources
+C:\LOCAL\ACREPRJ\ACRE\MigradorXLSSQL\obj\Debug\ACRE.Resources.resources
+C:\LOCAL\ACREPRJ\ACRE\MigradorXLSSQL\obj\Debug\MigradorXLSSQL.vbproj.GenerateResource.Cache
+C:\LOCAL\ACREPRJ\ACRE\MigradorXLSSQL\obj\Debug\ACREMigrador.exe
+C:\LOCAL\ACREPRJ\ACRE\MigradorXLSSQL\obj\Debug\ACREMigrador.pdb

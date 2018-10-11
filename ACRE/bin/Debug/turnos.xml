@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<applicationSettings>
+	<foto>foto1.jpg</foto>
+	<color>yellow</color>
+	<backcolor>black</backcolor>
+	<col1size>200</col1size>
+	<col2size>1400</col2size>
+	<col3size>0</col3size>
+	<col4size>60</col4size>
+	<letrasize>24</letrasize>
+</applicationSettings>

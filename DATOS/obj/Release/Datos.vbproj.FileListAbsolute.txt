@@ -1,0 +1,11 @@
+C:\LOCAL\PROJECTOSVB2005\TD1\Datos\bin\Release\app.config
+C:\LOCAL\PROJECTOSVB2005\TD1\Datos\bin\Release\Datos.dll.config
+C:\LOCAL\PROJECTOSVB2005\TD1\Datos\bin\Release\Datos.dll
+C:\LOCAL\PROJECTOSVB2005\TD1\Datos\bin\Release\Datos.pdb
+C:\LOCAL\PROJECTOSVB2005\TD1\Datos\bin\Release\Datos.xml
+C:\LOCAL\PROJECTOSVB2005\TD1\Datos\obj\Release\ResolveAssemblyReference.cache
+C:\LOCAL\PROJECTOSVB2005\TD1\Datos\obj\Release\ITOrg.Datos.Resources.resources
+C:\LOCAL\PROJECTOSVB2005\TD1\Datos\obj\Release\Datos.vbproj.GenerateResource.Cache
+C:\LOCAL\PROJECTOSVB2005\TD1\Datos\obj\Release\Datos.dll
+C:\LOCAL\PROJECTOSVB2005\TD1\Datos\obj\Release\Datos.xml
+C:\LOCAL\PROJECTOSVB2005\TD1\Datos\obj\Release\Datos.pdb

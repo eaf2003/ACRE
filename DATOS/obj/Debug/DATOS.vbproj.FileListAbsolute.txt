@@ -1,0 +1,8 @@
+C:\LOCAL\ACREPRJ\ACRE\DATOS\bin\Debug\Datos.dll.config
+C:\LOCAL\ACREPRJ\ACRE\DATOS\bin\Debug\Datos.dll
+C:\LOCAL\ACREPRJ\ACRE\DATOS\bin\Debug\Datos.pdb
+C:\LOCAL\ACREPRJ\ACRE\DATOS\obj\Debug\ResolveAssemblyReference.cache
+C:\LOCAL\ACREPRJ\ACRE\DATOS\obj\Debug\ACRE.Datos.Resources.resources
+C:\LOCAL\ACREPRJ\ACRE\DATOS\obj\Debug\DATOS.vbproj.GenerateResource.Cache
+C:\LOCAL\ACREPRJ\ACRE\DATOS\obj\Debug\Datos.dll
+C:\LOCAL\ACREPRJ\ACRE\DATOS\obj\Debug\Datos.pdb

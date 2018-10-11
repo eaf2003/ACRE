@@ -1,0 +1,16 @@
+C:\LOCAL\ACREPRJ\ACRE\UICaja\bin\Debug\ACRECAJA.exe
+C:\LOCAL\ACREPRJ\ACRE\UICaja\bin\Debug\ACRECAJA.pdb
+C:\LOCAL\ACREPRJ\ACRE\UICaja\bin\Debug\BIZL.dll
+C:\LOCAL\ACREPRJ\ACRE\UICaja\bin\Debug\Datos.dll
+C:\LOCAL\ACREPRJ\ACRE\UICaja\bin\Debug\Datos.pdb
+C:\LOCAL\ACREPRJ\ACRE\UICaja\bin\Debug\BIZL.pdb
+C:\LOCAL\ACREPRJ\ACRE\UICaja\bin\Debug\BIZL.xml
+C:\LOCAL\ACREPRJ\ACRE\UICaja\obj\Debug\ResolveAssemblyReference.cache
+C:\LOCAL\ACREPRJ\ACRE\UICaja\obj\Debug\ACRE.Caja.resources
+C:\LOCAL\ACREPRJ\ACRE\UICaja\obj\Debug\ACRE.CambioServicio.resources
+C:\LOCAL\ACREPRJ\ACRE\UICaja\obj\Debug\ACRE.CobrarFrm.resources
+C:\LOCAL\ACREPRJ\ACRE\UICaja\obj\Debug\ACRE.Resources.resources
+C:\LOCAL\ACREPRJ\ACRE\UICaja\obj\Debug\ACRE.Walkin.resources
+C:\LOCAL\ACREPRJ\ACRE\UICaja\obj\Debug\UICaja.vbproj.GenerateResource.Cache
+C:\LOCAL\ACREPRJ\ACRE\UICaja\obj\Debug\ACRECAJA.exe
+C:\LOCAL\ACREPRJ\ACRE\UICaja\obj\Debug\ACRECAJA.pdb

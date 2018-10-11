@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<applicationSettings>
+	<server>NOTE44</server>
+	<base>ACRE</base>
+	<ssi>false</ssi>
+	<user>sa</user>
+	<password>sa</password>
+	<TablaMigra>Reservas</TablaMigra>
+	<TablaCampoID>IDreserva</TablaCampoID>
+	<ExcelPath>C:\LOCAL\QUAD\MDT\Planilla 28-10-2014 SEG  CAJA - NUEVAEAF.xls</ExcelPath>
+	<ExcelHoja>U-Res-Consulta X EStado Diario $</ExcelHoja>
+	<ExcelCampoID>Nº Rva</ExcelCampoID>
+</applicationSettings>

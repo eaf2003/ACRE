@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7F845EDD-12E7-4A8A-83AA-2DA5BB8CBB03}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ACRE.My.MyApplication</StartupObject>
+    <RootNamespace>ACRE</RootNamespace>
+    <AssemblyName>ACRECAJA</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>Chance.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Caja.Designer.vb">
+      <DependentUpon>Caja.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Caja.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CambioServicio.Designer.vb">
+      <DependentUpon>CambioServicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CambioServicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CobrarFrm.Designer.vb">
+      <DependentUpon>CobrarFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CobrarFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ColAComp3.vb" />
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Walkin.Designer.vb">
+      <DependentUpon>Walkin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Walkin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Caja.resx">
+      <DependentUpon>Caja.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CambioServicio.resx">
+      <DependentUpon>CambioServicio.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CobrarFrm.resx">
+      <DependentUpon>CobrarFrm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Walkin.resx">
+      <DependentUpon>Walkin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BIZL\BIZL.vbproj">
+      <Project>{05A51A26-D835-4068-87A6-35AE52A6D03A}</Project>
+      <Name>BIZL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DATOS\DATOS.vbproj">
+      <Project>{545F871A-E6F4-409F-A147-58FE9C4BEC7B}</Project>
+      <Name>DATOS</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AIM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AIM2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notepad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Power - Standby.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Select.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tasks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows Card Space.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows Card Space32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tasks1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AIM1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VLC Media Player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Select1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Printer1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search alt1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cash register-400x400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money-bag-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pagar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HouseExpenses2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Corruption-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dollars-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\US-dollar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cash_B-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Power - Standby1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cash_B-128WHITE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cash_B-128WHITE2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Power - Restart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\myspace alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Chance.ico" />
+    <None Include="Resources\Cash_B-128WHITE21.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
